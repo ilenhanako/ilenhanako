@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Adelaine</h1>
 <h3 align="center">A Computer Science and Design freshman from Singapore</h3>
 
-- 🔭 I’m currently working on **100 Days of Code Python Challenge**
+- 🔭 I’m currently working on **Quantum Computing**
 
 - 🌱 I’m currently learning **python and ML**
 
