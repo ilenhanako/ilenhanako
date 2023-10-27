@@ -1,9 +1,8 @@
 <h1 align="center">Hi 👋, I'm Adelaine</h1>
 <h3 align="center">A Computer Science and Design freshman from Singapore</h3>
 
-- 🔭 I’m currently working on **Quantum Computing**
+- 🔭 I’m currently working on **Quantum Computing** for a hackathon
 
-- 🌱 I’m currently learning **python and ML**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
