@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Adelaine</h1>
-<h3 align="center">A Computer Science and Design freshman from Singapore</h3>
+<h3 align="center">A Computer Science and Design sophomore from Singapore</h3>
 
 - 🔭 I’m currently working on **Quantum Computing** for a hackathon
 
