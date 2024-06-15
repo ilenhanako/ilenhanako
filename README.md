@@ -13,7 +13,7 @@
 <div>
 
 ### Languages:
-| Python3 | C | Java Script | Ruby | Java | Type Script |
+| Python3 | C | JS | Ruby | Java | TS |
 |----------|----------|----------|-----|-----|-----|
 |  <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python"  alt="Python" width="55" height="55"/> |  <img src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" title="C"  alt="C" width="55" height="55"/> |  <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="55" height="55"/> |  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/ruby/ruby-original-wordmark.svg" title="Ruby" alt="Ruby" width="55" height="55"/>|  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" title="Java" alt="Java" width="55" height="55"/>|  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" title="Type Script" alt="Type Script" width="55" height="55"/>| 
 
@@ -24,6 +24,12 @@
 |  <img src="https://github.com/devicons/devicon/blob/master/icons/pytorch/pytorch-original.svg" title="Pytorch"  alt="Pytorch" width="55" height="55"/>|  <img src="https://github.com/devicons/devicon/blob/master/icons/numpy/numpy-original-wordmark.svg" title="Numpy" alt="Numpy" width="55" height="55"/>|  <img src="https://github.com/devicons/devicon/blob/master/icons/pandas/pandas-original.svg" title="Pandas" alt="Pandas" width="55" height="55"/>|  <img src="https://github.com/devicons/devicon/blob/master/icons/scikitlearn/scikitlearn-original.svg" title="sklearn" alt="sklearn" width="55" height="55"/>|  <img src="https://github.com/devicons/devicon/blob/master/icons/matplotlib/matplotlib-original.svg" title="mpl" alt="mpl" width="55" height="55"/>| <img src="https://github.com/devicons/devicon/blob/master/icons/opencv/opencv-original.svg" title="mpl" alt="mpl" width="55" height="55"/>|
 
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=ilenhanako&show_icons=true&locale=en&layout=compact" alt="ilenhanako" /></p>
+<p><img align="center" 
+     <img width="600" height="200" src="https://github-readme-stats.vercel.app/api/top-langs?username=ilenhanako&show_icons=true&locale=en&layout=compact" alt="ilenhanako" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ilenhanako&" alt="ilenhanako" /></p>
+<p><img align="center" 
+     <img width="600" height="200" src="https://github-readme-streak-stats.herokuapp.com/?user=ilenhanako&" alt="ilenhanako" /></p>
+
+<p align="center">
+ <img width="1000" src="assets/github-snake.svg" alt="snake"/>
+</p>
